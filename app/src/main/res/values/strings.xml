@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogTest</string>
+    <string name="Positive">OK</string>
+    <string name="Negative">Cancel</string>
+    <string name="Neutral">Remind me Later</string>
+    <string name="Message">Do you want to proceed?</string>
+    <string name="Title">Confirm</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+</resources>
